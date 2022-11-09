@@ -10,9 +10,6 @@ We need to download and install the rabbitmq. Here I have attached the official 
 </br>
 
 
-
-
-<b>Creating project for sender and receiver</b>
 <br>
 
 The above RabbitMQ communication happens via AMQP protocol, and for Nodejs there is amqplib npm package to interact with RabbitMQ.
